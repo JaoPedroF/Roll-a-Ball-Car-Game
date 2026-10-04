@@ -22,14 +22,9 @@ Espaço - Frear
 
 # Imagens:
 
-
-<img width="593" height="551" alt="Image" src="https://github.com/user-attachments/assets/1c470313-ca58-4582-a685-bacff9291a3c" />
-
-
-
+Modelo 3D do Carro:
 
 <img width="608" height="586" alt="Image" src="https://github.com/user-attachments/assets/b3e49e92-74be-4534-ade8-e73b2df6e0b9" />
-
 
 
 
