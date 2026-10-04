@@ -1,6 +1,6 @@
 # Roll-a-Ball-Car-Game
 
-Jogo criado como primeiro projeto da disciplina "Programação de Jogos"
+Jogo criado como primeiro projeto da disciplina "Programação de Jogos 2026.2" - Roll a Ball
 
 Orientador: Murilo Boratto
 
