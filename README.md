@@ -19,6 +19,12 @@ Música feita pelo FL Studio 21
 Modelagem 3D do Carro feita pelo Blockbench
 
 
+
+Colete 36 moedas e ganhe o jogo
+
+
+
+
 # Controles:
 
 W/A/S/D e/ou Setas do teclado - Movimentação
